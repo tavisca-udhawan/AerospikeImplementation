@@ -1,0 +1,12 @@
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\obj\Debug\AerospikeAssignment.csprojResolveAssemblyReference.cache
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\obj\Debug\AerospikeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\bin\Debug\AerospikeAssignment.exe.config
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\bin\Debug\AerospikeAssignment.exe
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\bin\Debug\AerospikeAssignment.pdb
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\obj\Debug\AerospikeAssignment.exe
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\obj\Debug\AerospikeAssignment.pdb
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\bin\Debug\AerospikeClient.dll
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\bin\Debug\Neo.Lua.dll
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\bin\Debug\AerospikeClient.xml
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\bin\Debug\Neo.Lua.pdb
+C:\Users\udhawan\source\repos\AerospikeAssignment\AerospikeAssignment\bin\Debug\Neo.Lua.xml
